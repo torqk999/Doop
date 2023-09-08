@@ -1,0 +1,21 @@
+﻿  DataOrientedObject.cpp
+C:\Users\soulb\source\repos\TestApp\TestApp\DataOrientedObject.cpp(15,2): warning C4101: 'e': unreferenced local variable
+C:\Users\soulb\source\repos\TestApp\TestApp\DataOrientedObject.cpp(24,2): warning C4101: 'e': unreferenced local variable
+C:\Users\soulb\source\repos\TestApp\TestApp\DataOrientedObject.cpp(36,2): warning C4101: 'e': unreferenced local variable
+  DataSubscription.cpp
+C:\Users\soulb\source\repos\TestApp\TestApp\DataSubscription.cpp(31,2): warning C4101: 'e': unreferenced local variable
+  DataSystem.cpp
+C:\Users\soulb\source\repos\TestApp\TestApp\DataSystem.cpp(119,2): warning C4101: 'e': unreferenced local variable
+C:\Users\soulb\source\repos\TestApp\TestApp\DataSystem.cpp(140,2): warning C4101: 'e': unreferenced local variable
+C:\Users\soulb\source\repos\TestApp\TestApp\DataSystem.cpp(148,2): warning C4101: 'e': unreferenced local variable
+  Main.cpp
+  TransformationSystem.cpp
+C:\Users\soulb\source\repos\TestApp\TestApp\DataComponent.h(39,3): warning C4101: 'e': unreferenced local variable
+C:\Users\soulb\source\repos\TestApp\TestApp\TransformationSystem.cpp(17,9): message : see reference to function template instantiation 'bool DataComponent::Configure<float>(T *,DataConfig *)' being compiled
+          with
+          [
+              T=float
+          ]
+  VirtualBoy.cpp
+  Generating Code...
+  TestApp.vcxproj -> C:\Users\soulb\source\repos\TestApp\x64\Debug\TestApp.exe

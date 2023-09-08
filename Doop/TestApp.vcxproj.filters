@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="TestExtensions">
+      <UniqueIdentifier>{539a1a26-d2e4-4020-a8eb-9a0048d50464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TestExtensions\Headers">
+      <UniqueIdentifier>{977b55eb-9f23-40ec-a8b2-3fd7af9a0896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TestExtensions\Source">
+      <UniqueIdentifier>{b77a1518-4768-4499-91b7-563ed01977b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreLibrary">
+      <UniqueIdentifier>{d4156c2b-5255-45f9-99e8-0ce6e69214ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CoreLibrary\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="CoreLibrary\Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="TestExtensions\MothBalled">
+      <UniqueIdentifier>{9da8d66e-9142-4403-828d-c3b22360390c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataSystem.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataSubscription.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataOrientedObject.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchResult.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformationSystem.cpp">
+      <Filter>TestExtensions\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualBoy.cpp">
+      <Filter>TestExtensions\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DoopEpsilon.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataComponent.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataConfig.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DoopEssentials.cpp">
+      <Filter>CoreLibrary\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DoopEssentials.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSystem.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSubscription.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyDefinitions.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataOrientedObject.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchResult.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformationSystem.h">
+      <Filter>TestExtensions\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualBoy.h">
+      <Filter>TestExtensions\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DoopEpsilon.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataConfig.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchConfig.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataComponent.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoopConfig.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultCode.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals.h">
+      <Filter>CoreLibrary\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
